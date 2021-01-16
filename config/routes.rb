@@ -13,5 +13,3 @@ Rails.application.routes.draw do
     resources :movie_logs
   end
 end
-
-  
